@@ -1,4 +1,3 @@
-# This is a football goal evaluation system made using if statements on python
 print("This is a goal tally evaluation prompt I made using Python :)")
 goals = input("Goals Scored?")
 goals = int(goals)
@@ -10,7 +9,4 @@ elif goals > 20:
 elif goals > 10:
     print("Keep going")
 else:
-    print("START SCORING ASSWIPE")
-
-# "if" and "elif" provide the programme with separate blocks of code
-# MY FIRST BLOCK OF CODE!!!!!!
+    print("START SCORING!!")
