@@ -1,0 +1,10 @@
+# defining main
+def main():
+    convert(input(str("Write anything with a smile or frown: ")))
+
+#defining convert
+def convert(input):
+    print(input.replace(":)", "🙂").replace(":(" , "🙁"))He
+
+#calling main
+main()
